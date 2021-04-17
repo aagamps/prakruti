@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
+| Header      | Changed       |
 | Paragraph   | Text        |
 
